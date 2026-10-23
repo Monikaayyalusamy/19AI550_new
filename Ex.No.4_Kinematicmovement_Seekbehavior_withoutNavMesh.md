@@ -1,9 +1,11 @@
 # Ex.No: 4  Implementation of Kinematic movement -seek and Flee behavior in Unity
-### DATE:                                                                            
-### REGISTER NUMBER : 
-### AIM: 
+## DATE: 23-10-2026                                                                           
+## REGISTER NUMBER : 212224240094
+
+## AIM: 
 To write a program to simulate the process of seek and Flee behavior in Unity without NavigationMeshAgent. 
-### Algorithm:
+
+## Algorithm:
 1. Create a New Unity Project by Open the  Unity Hub and create a new 3D Project,Name the project (e.g., SeekBehaviorDemo).
 2. Create the Moving Object
    In the Hierarchy, right-click → 3D Object → Cube (or Sphere).
@@ -23,7 +25,7 @@ To write a program to simulate the process of seek and Flee behavior in Unity wi
 13.  Run the game
 14. Stop the program
     
-### Program:
+## Program:
 ```
 using System.Collections;
 using System.Collections.Generic;
@@ -80,15 +82,13 @@ public class fleeScript : MonoBehaviour
     }
 }
 ```
-### Output:
+
+## Output:
+<img width="1673" height="940" alt="Unity Editor with SeekBehaviour_Monika Project (1)" src="https://github.com/user-attachments/assets/e7d0d9d2-b512-4023-b003-769dd6547f2b" />
+<img width="1672" height="941" alt="Unity Editor Scene with SeekBehaviour_Monika Title" src="https://github.com/user-attachments/assets/a9ad6baf-2819-436f-8453-f17c9150603f" />
+<img width="1247" height="681" alt="image" src="https://github.com/user-attachments/assets/a37c97e2-7678-452a-9dd8-82842a69aa66" />
+<img width="1258" height="845" alt="image" src="https://github.com/user-attachments/assets/d4a5ad58-318f-4415-9cb2-591795dac714" />
 
 
-
-
-
-
-
-
-
-### Result:
+## Result:
 Thus the simple seek behavior was implemented successfully.
