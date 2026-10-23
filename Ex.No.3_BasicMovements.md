@@ -1,9 +1,11 @@
 # Ex.No: 3  Basic movements in Unity 
-### DATE:                                                                            
-### REGISTER NUMBER : 
-### AIM: 
+## DATE:   23.10.2026                                                                         
+## REGISTER NUMBER : 212224240094
+
+## AIM: 
  To learn the basic movements translation,scaling and rotation of game objects through code.
-### Procedure:
+
+## Procedure:
 1. Setup the Scene
 2. Open Unity and create a 3D Scene.
 3. Add three objects:Cube → Rename to Object1 (for movement),Sphere → Rename to Object2 (for rotation).Capsule → Rename to Object3 (for scaling).
@@ -15,7 +17,8 @@
 9. In the Inspector, assign Object1 → Drag the Cube,Object2 → Drag the Sphere.Object3 → Drag the Capsule.
 10. Run the Scene Press Play ▶️ in Unity
 11. Stop the program.
-### Program 
+
+## Program 
 ```
 using UnityEngine;
 public class TransformOperations : MonoBehaviour
@@ -56,16 +59,20 @@ public class TransformOperations : MonoBehaviour
     }
 }
 ```
-### Output:
+
+## Output:
+
+<img width="1917" height="1075" alt="Screenshot 2026-10-22 223951" src="https://github.com/user-attachments/assets/12a06914-ed7d-4fba-a3b6-b7cde6d9bc93" />
+
+
+<img width="1917" height="1078" alt="Screenshot 2026-10-22 224006" src="https://github.com/user-attachments/assets/c8aa2899-33eb-4530-a5f5-12e6abf9246e" />
+
+
+<img width="1627" height="1008" alt="Screenshot 2026-10-22 224216" src="https://github.com/user-attachments/assets/d13757fb-06af-4930-9368-9b6fa714f0a7" />
 
 
 
-
-
-
-
-
-### Result:
+## Result:
 Thus the basic movement is learned through scripting
 
 
