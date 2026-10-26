@@ -62,14 +62,9 @@ public class TransformOperations : MonoBehaviour
 
 ## Output:
 
-<img width="1917" height="1075" alt="Screenshot 2026-10-22 223951" src="https://github.com/user-attachments/assets/12a06914-ed7d-4fba-a3b6-b7cde6d9bc93" />
+<img width="1911" height="1110" alt="Screenshot 2026-10-26 213537" src="https://github.com/user-attachments/assets/d3ee7a03-5712-496d-8d08-ef274eebd0d8" />
 
-
-<img width="1917" height="1078" alt="Screenshot 2026-10-22 224006" src="https://github.com/user-attachments/assets/c8aa2899-33eb-4530-a5f5-12e6abf9246e" />
-
-
-<img width="1627" height="1008" alt="Screenshot 2026-10-22 224216" src="https://github.com/user-attachments/assets/d13757fb-06af-4930-9368-9b6fa714f0a7" />
-
+<img width="1916" height="1150" alt="Screenshot 2026-10-26 213552" src="https://github.com/user-attachments/assets/7a71b642-d2f7-4b19-9c78-c0811b1a4cbe" />
 
 
 ## Result:
