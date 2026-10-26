@@ -84,10 +84,8 @@ public class fleeScript : MonoBehaviour
 ```
 
 ## Output:
-<img width="1673" height="940" alt="Unity Editor with SeekBehaviour_Monika Project (1)" src="https://github.com/user-attachments/assets/e7d0d9d2-b512-4023-b003-769dd6547f2b" />
-<img width="1672" height="941" alt="Unity Editor Scene with SeekBehaviour_Monika Title" src="https://github.com/user-attachments/assets/a9ad6baf-2819-436f-8453-f17c9150603f" />
-<img width="1247" height="681" alt="image" src="https://github.com/user-attachments/assets/a37c97e2-7678-452a-9dd8-82842a69aa66" />
-<img width="1258" height="845" alt="image" src="https://github.com/user-attachments/assets/d4a5ad58-318f-4415-9cb2-591795dac714" />
+<img width="1916" height="1137" alt="Screenshot 2026-10-26 214658" src="https://github.com/user-attachments/assets/069b75d3-50f3-4499-af61-fdefaaf6665a" />
+<img width="1915" height="1132" alt="Screenshot 2026-10-26 214711" src="https://github.com/user-attachments/assets/19bfeef9-7970-4837-9a60-2ff223c3f558" />
 
 
 ## Result:
