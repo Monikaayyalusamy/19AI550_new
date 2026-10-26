@@ -32,8 +32,8 @@ To install Unity2022.3.57f1 or higher version for Game Development.
 ![image](https://github.com/user-attachments/assets/c902763e-4ba5-42b7-8251-a74db9ba5a42)
 
 ## Output:
-<img width="1915" height="1078" alt="image" src="https://github.com/user-attachments/assets/50006c11-8f10-42a3-93e1-7b882c9b4db3" />
-<img width="1674" height="939" alt="Monika Unity Editor Screenshot" src="https://github.com/user-attachments/assets/d3ac49c3-cbcc-4246-9b51-8867e519ab19" />
+<img width="1913" height="1136" alt="Screenshot 2026-10-26 190647" src="https://github.com/user-attachments/assets/5536a55e-ea99-4ae0-b2cb-2027511aed02" />
+<img width="1917" height="1117" alt="Screenshot 2026-10-26 191151" src="https://github.com/user-attachments/assets/d105e980-ec6b-4ca4-a31d-da4c3a875d30" />
 
 
 ## Result:
