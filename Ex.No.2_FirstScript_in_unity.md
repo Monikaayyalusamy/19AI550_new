@@ -38,9 +38,8 @@ public class FirstScript : MonoBehaviour
 }
 ```
 ## Output:
-<img width="1673" height="940" alt="Unity 6 Editor with 3D Monika Project (1)" src="https://github.com/user-attachments/assets/8aaa8dd9-87a0-4482-8e3b-6df22d6da3ca" />
-
-<img width="1883" height="835" alt="Unity Editor Workspace with Monika Project Title" src="https://github.com/user-attachments/assets/f1797200-eb52-4af4-8be5-4966088a8fec" />
+<img width="1910" height="1108" alt="Screenshot 2026-10-26 210356" src="https://github.com/user-attachments/assets/cb660ef4-3fab-4031-83cb-031d06c046ef" />
+<img width="1917" height="1132" alt="Screenshot 2026-10-26 210344" src="https://github.com/user-attachments/assets/da9d1f44-42c2-44d9-966e-385a5564b6ab" />
 
 
 ## Result:
