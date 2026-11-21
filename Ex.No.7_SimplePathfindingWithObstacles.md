@@ -1,9 +1,12 @@
 # Ex.No: 7  Implementation of Simple Pathfinding with Obstacles
-### DATE:                                                                            
-### REGISTER NUMBER : 
-### AIM: 
+
+## DATE : 21.11.2026                                                                          
+## REGISTER NUMBER : 212224240094
+
+## AIM: 
 To write a program to pathfinding using AI navigation 
-### Algorithm:
+
+## Algorithm:
 ```
 1. Create a New Unity Project by Open the  Unity Hub and create a new 3D Project,Name the project (e.g., Pathfinding).
 2. Set Up the Scene by Create the Ground (Plane or Terrain)
@@ -27,7 +30,8 @@ Go to: Inspector → Add Component → NavMeshObstacle and Check: ✅ "Carve"
 10.Move the Obstacle with Code ( attach it with Obstacle) 
 11. Run the program
 ```  
-### Program:
+
+## Program:
 ```
 using System.Collections;
 using System.Collections.Generic;
@@ -78,15 +82,19 @@ void Start()
 For smooth movement(optional)  -> use  
 float movement = Mathf.PingPong(Time.time * moveSpeed, moveDistance) - moveDistance / 2;
 transform.position = startPos + new Vector3(movement, 0, 0);
-### Output:
+
+## Output:
+
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/5f569e18-9626-4c07-aa26-e2bb43d59467" />
+
+<img width="1917" height="1198" alt="Screenshot 2026-11-21 212138" src="https://github.com/user-attachments/assets/8efd7903-96fe-45a3-8eb3-15f2402b46cd" />
+
+<img width="1917" height="1198" alt="Screenshot 2026-11-21 212121" src="https://github.com/user-attachments/assets/662ab944-e035-42fb-bd39-09d383261f9f" />
 
 
 
 
 
 
-
-
-
-### Result:
+## Result:
 Thus the simple path finding  behavior was implemented using AI navigation successfully.
